@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 0. 모각코 전 블로그 생성
-subtitle: 모각코 대표 블로그 생성
+title: 모각코 전 블로그 생성
+#subtitle: 모각코 대표 블로그 생성
 gh-repo: fullop2/fullop2.github.io
 #gh-badge: [star, fork, follow]
 tags: [dev]
