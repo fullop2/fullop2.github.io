@@ -2,13 +2,16 @@
 layout: post
 title: 1주차 모각코 목표 (21.07.04)
 #subtitle: 목표
-tags: [dev, week1]
+tags: [1주차, 목표]
 comments: true
+---
+## 1주차 모임
+
+![meet](/assets/img/week1meet.jpg){: .mx-auto.d-block :}
+
 ---
 
 ## 1주차 목표
-
-![Object](/assets/img/mo1.png)
 
 #### 박태현
 - 로그인 페이지 구현

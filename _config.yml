@@ -15,9 +15,9 @@ author: Park Taehyun, Song Chanhwan, Yu Hyunsu
 
 navbar-links:
   About Us: "aboutme"
-  Posts:
-    - 0. 개설: "2021-06-21-introduction"
-    - About Us: "aboutme"
+  "--- Posts ---"     :
+    - 1주차 목표 : "2021-07-04-week-1-object"
+    - 1주차 결과 : "2021-07-04-week-1-result"
   #Author's home: "https://github.com/fullop2"
 
 # --- Logo --- #
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "fullop2.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
