@@ -9,17 +9,17 @@ comments: true
 ## 3주차 회고
 
 #### 박태현
-Vue로 개발한 것을 처음으로 GCP에 배포를 했다. 배포를 수동으로 하니 매우 불편하다
+로그인 서버와 빨리 연결해서 회원 서비스를 구현하고 싶다
 
 #### 송찬환
-회원가입에 입력해야 하는 정보로 어떤걸 더 추가해야할지 고민해봐야할것 같다.
+서버 환경설정을 할 때 여러가지 오류가 있는데, 이를 잘 해결해야 될 것 같다.
 
 #### 유현수
-코드작성하는데에 오류가 많았다. 더 많은 공부가 필요한 것 같다
+활용할 수 있는 데이터를 더 찾아보아야겠다.
 
 ---
 ## 개인 블로그
 
-- 박태현 [https://blog.naver.com/fullop_/222427731215](https://blog.naver.com/fullop_/222427731215)
-- 송찬환 [https://blog.naver.com/song960705/222427730600](https://blog.naver.com/song960705/222427730600)
-- 유현수 [https://blog.naver.com/yuhs0383/222427742123](https://blog.naver.com/yuhs0383/222427742123)
+- 박태현 [https://blog.naver.com/fullop_/222436088382](https://blog.naver.com/fullop_/222436088382)
+- 송찬환 [https://blog.naver.com/song960705/222436137124](https://blog.naver.com/song960705/222436137124)
+- 유현수 [https://blog.naver.com/yuhs0383/222436140268](https://blog.naver.com/yuhs0383/222436140268)
