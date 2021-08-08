@@ -12,9 +12,10 @@ comments: true
 
 ---
 
-## 4주차 목표
-- POSTGIS GEOSERVER 연동
-- POSTGIS에 레이어 추가 방법 조사
+## 5주차 목표
+- 공통
+  - POSTGIS GEOSERVER 연동
+  - POSTGIS에 레이어 추가 방법 조사
 
 ---
 
